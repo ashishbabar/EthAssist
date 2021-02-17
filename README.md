@@ -1,4 +1,7 @@
-# Eth Assist Token
+<p align="center">
+  <img width="200" height="200" src="https://raw.githubusercontent.com/ashishbabar/EthAssist/main/logo_200x200.png">
+</p>
+
 This is an implementation of Contracts for accepting Investment through Ethers. Investers will receive ERC20 based token EAS
 
   - 1 Ether = 1000 EthAssist token
